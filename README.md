@@ -14,3 +14,6 @@ Example image of a confusion matrix from the results of an SVR evaluation:
 
 
 Also, a personal re-implementation of the scikit-image hog() function is presented in a different repository.
+
+packages.txt for conda virtual environment build
+requirements.txt for pip virtual environment build
