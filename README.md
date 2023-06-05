@@ -10,5 +10,7 @@ In the HoG_SVM.py, we extract feature vectors of the MNIST images from their His
 
 Example image of a confusion matrix from the results of an SVR evaluation:
 
+![image](https://github.com/petrakisgeo/MNIST-CNN-SVR-Classifiers-with-HoG-Feature-Extraction/assets/117226445/0d3e5961-a4b9-4111-b499-e99a5a8b8e7a)
+
 
 Also, a personal re-implementation of the scikit-image hog() function is presented in a different repository.
